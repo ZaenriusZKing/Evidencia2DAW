@@ -1,0 +1,15 @@
+[
+  {
+    "model": "Evidencia2.usuario",
+    "pk": 1,
+    "fields": {
+      "usuario": "usuario1",
+      "biografia": "Esta es la biografía del usuario 1",
+      "foto_perfil": "ruta/a/la/foto1.jpg"
+    }
+  },
+  {
+    "model": "Evidencia2.publicacion",
+    "pk": 1,
+    "fields": {
+     
